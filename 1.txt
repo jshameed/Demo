@@ -6,3 +6,4 @@ again changes in file 1
 
 stashed 1
 
+Version 2.0 chnages added
