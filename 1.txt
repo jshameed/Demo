@@ -4,3 +4,5 @@ More changes in file 1
 
 again changes in file 1
 
+stashed 1
+
