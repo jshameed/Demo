@@ -1,1 +1,3 @@
 Initial content in file 1
+
+More changes in file 1
